@@ -1,0 +1,1 @@
+{"serviceBusHost":"SB NameSpace","eventHubName":"EH Name","partitions":"4","SASKeyName":"Policy Name","SASKey":"Primary or Secondary Key"}
